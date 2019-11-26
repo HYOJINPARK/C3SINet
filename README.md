@@ -1,6 +1,6 @@
 # C3 and SINet for Lightweight segmentaiton model on Cityscape dataset
 
- Our code will be released in this link after security check. I guess next week. However if you have questions, please mail to me. I am happy to wait for your question mail. wolfrun@snu.ac.kr
+ Our code will be released in this [link](https://github.com/clovaai) after security check. I guess next week. However if you have questions, please mail to me. I am happy to wait for your question mail. wolfrun@snu.ac.kr
  
 ## Requirements
 
