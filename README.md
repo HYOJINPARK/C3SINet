@@ -29,9 +29,9 @@ Squeeze Modules and Information Blocking Decoder"
 
 |       Model   |  # of Param(M)|   # of Flop(G) | size for Flop |   IoU( val )  |    IoU (test) |   server link   |
 | ------------- | ------------- | ------------- | ------------- | ------------- |  ------------- |  ------------- | 
-| C3Net[2,3,7,13]|    0.19      |       3.49    |   512*1024    |       66.87   |    64.78      | [link](https://www.cityscapes-dataset.com/anonymous-results/?id=35de55e0c66400ecae916473975cf2e939f8d8af1889e119a9ab8fe70a8147d8) | 
-| C3NetV2[2,4,8,16] |    0.18       |       2.72    |   512*1024    |       66.28   |    65.48      | [link](https://www.cityscapes-dataset.com/anonymous-results/?id=b00ac06d2c8e806a236a4a44ecb83e12a0f442419e16650a87082e65736f61ac) | 
-| SINet        |    0.12       |       1.2     |   1024*2048    |       68.22   |     66.46    | [link](https://www.cityscapes-dataset.com/anonymous-results/?id=2ce70c4caebe666258a8138c0f296b763bdd160743a75500ed38f7854ff59a68) | 
+| C3Net[2,3,7,13]|    0.19      |       3.15    |   512*1024    |       66.87   |    64.78      | [link](https://www.cityscapes-dataset.com/anonymous-results/?id=35de55e0c66400ecae916473975cf2e939f8d8af1889e119a9ab8fe70a8147d8) | 
+| C3NetV2[2,4,8,16] |    0.18       |       2.66    |   512*1024    |       66.28   |    65.48      | [link](https://www.cityscapes-dataset.com/anonymous-results/?id=b00ac06d2c8e806a236a4a44ecb83e12a0f442419e16650a87082e65736f61ac) | 
+| SINet        |    0.12       |       1.22     |   1024*2048    |       68.22   |     66.46    | [link](https://www.cityscapes-dataset.com/anonymous-results/?id=2ce70c4caebe666258a8138c0f296b763bdd160743a75500ed38f7854ff59a68) | 
 
 * C3NetV2 has same encoder structure with C3Net, but uses bilinear upsampling for a decodder structure. 
 
